@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { supabase } from './supabaseClient.js'
 
-const PHONE = '96170696754' // country code + number, no + and no spaces
+const PHONE = '96176704426' // country code + number, no + and no spaces
 
 const T = {
   en: { tagline: '', removeLabel: 'Remove ingredients', extraLabel: 'Add extras',
