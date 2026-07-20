@@ -9,7 +9,7 @@ const T = {
         total: 'Total', yourOrder: 'Your order', complete: 'Complete order via WhatsApp',
         empty: 'Your order is empty.', sending: 'Sending order...' },
   ar: { tagline: '', removeLabel: 'احذف مكونات', extraLabel: 'إضافات',
-        noteLabel: 'ملاحظات خاصة', addToOrder: 'اضف إلى السلة', viewOrder: 'شوف طلبك',
+        noteLabel: 'ملاحظات خاصة', addToOrder: 'اضف إلى السلة', viewOrder:'السلة',
         total: 'المجموع', yourOrder: 'طلبك', complete: 'أكمل الطلب عبر واتساب',
         empty: 'طلبك فاضي.', sending: 'عم يرسل الطلب...' }
 }
