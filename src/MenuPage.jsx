@@ -5,11 +5,11 @@ const PHONE = '96176704426' // country code + number, no + and no spaces
 
 const T = {
   en: { tagline: '', removeLabel: 'Remove ingredients', extraLabel: 'Add extras',
-        noteLabel: 'Special instructions', addToOrder: 'Add to order', viewOrder: 'View order',
+        noteLabel: 'Special instructions', addToOrder: 'Add to cart', viewOrder: 'View order',
         total: 'Total', yourOrder: 'Your order', complete: 'Complete order via WhatsApp',
         empty: 'Your order is empty.', sending: 'Sending order...' },
   ar: { tagline: '', removeLabel: 'احذف مكونات', extraLabel: 'إضافات',
-        noteLabel: 'ملاحظات خاصة', addToOrder: 'ضيف عالطلب', viewOrder: 'شوف طلبك',
+        noteLabel: 'ملاحظات خاصة', addToOrder: 'اضف إلى السلة', viewOrder: 'شوف طلبك',
         total: 'المجموع', yourOrder: 'طلبك', complete: 'أكمل الطلب عبر واتساب',
         empty: 'طلبك فاضي.', sending: 'عم يرسل الطلب...' }
 }
